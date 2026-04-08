@@ -1,0 +1,23 @@
+# Build artifacts
+target/
+
+# Maven
+.mvn/timing.properties
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
