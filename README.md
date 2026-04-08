@@ -1,4 +1,4 @@
-# Geospatial - Avaliacao Java SCCON
+# Geospatial - Avaliação Java SCCON
 
 API REST em Spring Boot para cadastro de pessoas em memoria, com calculo de idade e salario.
 
